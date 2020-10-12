@@ -1,0 +1,50 @@
+body{
+    background-color:#FDC5E7;
+    
+   
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    height:60px;
+    background-color:#DB61B1 ;
+    padding: 0px 5%;
+ }
+ nav ul {
+     display: flex;
+     color: #8b1568;
+ }
+ nav ul li a{
+    margin: 30px;
+    color:#af7549;
+    font-size: 17px;
+}
+.logo{
+   font-family: 'Sansita Swashed', cursive;
+    color:#592448;
+    font-size: 22pX;
+}
+.active{
+    font-weight: bold;
+    color: #8f2925;
+}
+#pekemon{
+   height: 400px;
+   width: 30%;
+   margin: 170px;
+}
+p {
+    font: bold;
+    font-size: 30px;
+    direction: rtl;
+    position: absolute; left:10px; top:10px;
+    padding:500px 30px 700px 750px; 
+    
+}
